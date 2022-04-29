@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142490942526",
+    "project_id": "noteapp-15094",
+    "storage_bucket": "noteapp-15094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142490942526:android:25af90479538c90883256f",
+        "android_client_info": {
+          "package_name": "com.magda.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142490942526-uld9q7oihom5tkfire8a7c92er3b6uj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRNfeYM_0cey4wBPhcRN4kRlluuDRoN3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142490942526-uld9q7oihom5tkfire8a7c92er3b6uj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

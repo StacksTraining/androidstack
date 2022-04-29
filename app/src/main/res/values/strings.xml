@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="hello_world">Hello World</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_signed_up_log_in">Already signed up? log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="note">Note</string>
+    <string name="draft">Draft</string>
+    <string name="profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add Note</string>
+    <string name="login">LogIn</string>
+    <string name="not_registered_sign_up">Not Registered? Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="save">Save</string>
+    <string name="note_holder">note holder</string>
+    <array name="media_options">
+        <item> Gallery </item>
+        <item> Camera </item>
+    </array>
+
+</resources>
